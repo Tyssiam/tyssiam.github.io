@@ -1,4 +1,4 @@
-# Tyssia Malalatiana — Portfolio
+# Tyssia Malalatiana - Portfolio
 
 Portfolio en ligne de **Tyssia Malalatiana**, chargée de clientèle.
 
